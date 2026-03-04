@@ -1,0 +1,9 @@
+{
+  "name": "l910-framework",
+  "version": "1.0.0",
+  "description": "Minimal Node.js framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
